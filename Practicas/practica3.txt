@@ -1,6 +1,0 @@
-let numero1 = 10;
-let numero2 = 5;
-
-if (numero1 + numero2 == 15) {
-    console.log("El resultado es: " + (numero1 + numero2));
-}
